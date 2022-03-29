@@ -1,0 +1,2 @@
+# MAGIC
+Repositorio para GST
